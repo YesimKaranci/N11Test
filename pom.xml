@@ -13,7 +13,7 @@
     <properties>
         <selenium.version>3.8.1</selenium.version>
         <junit.version>4.12</junit.version>
-        <guava.version>24.0-jre</guava.version>
+        <guava.version>24.1.1-jre</guava.version>
         <cucumber.version>2.4.0</cucumber.version>
         <commons.io.version>2.6</commons.io.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
